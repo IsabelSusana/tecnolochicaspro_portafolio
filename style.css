@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #AD7FD9;
 }
 
 .navbar-collapse {
@@ -25,13 +25,13 @@ h1 {
 }
 
 .seccion-oscura {
-  color: white;
+  color: #00ecf8;
   background-color: #1b1b32;
 }
 
 .seccion-clara {
-  color: black;
-  background-color: white;
+  color: #7719AA;
+  background-color: #CFFAFB;
 }
 
 .seccion-titulo {
@@ -42,7 +42,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #584e4e;
+  color: rgb(45, 6, 83);
 }
 
 .seccion-texto {
@@ -347,7 +347,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  border: 2px solid rgb(230, 43, 202);
 }
 
 .iconos-redes-sociales a:hover i {
